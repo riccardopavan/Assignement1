@@ -3,4 +3,6 @@
 - Processori
 - Schede madri
 
+## Periferiche
+
 Elettronica Padovana
